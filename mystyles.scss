@@ -5,17 +5,17 @@
 
 // Colors
 $light-sage-green: #D1D9CE;
-$dark-sage-green: #98A08D;
+$dark-slate-gray: #2F4F4F;
 $cream: #FDFBF7;
 $gray: #64605f;
 $light-gray: #949799;
-$purple: #AE8BD1;
+$dark-redvibe: #C0392B;
 
 // Base document colors
 $navbar-bg: $cream; // navbar
-$navbar-fg: $dark-sage-green; // navbar foreground elements
-$navbar-hl: $purple; // highlight color when hovering over navbar links
+$navbar-fg: $dark-slate-gray; // navbar foreground elements
+$navbar-hl: $dark-redvibe; // highlight color when hovering over navbar links
 $body-bg: $light-sage-green; // page background 
 $body-color: $gray; // page text 
 $footer-bg: $cream; // footer 
-$link-color: $purple; // hyperlinks 
+$link-color: $dark-redvibe; // hyperlinks 

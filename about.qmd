@@ -1,5 +1,7 @@
 ---
-title: "about"
+title: "About me"
 ---
 
-help 
+I grew up in Torrance, California. 
+
+

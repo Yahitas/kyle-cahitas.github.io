@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "Kyle Cahitas",
     "section": "",
-    "text": "Hello\n\n\n\n\n\n\nEducation-\n\n\nUniversity of Santa Barbara\n\n\nEl Camino Community College rf"
+    "text": "Welcome to my website! Created from ENVS-193DS at UCSB."
   },
   {
     "objectID": "New.html",
@@ -16,8 +16,36 @@
   {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "about",
+    "title": "About me",
     "section": "",
-    "text": "help"
+    "text": "I grew up in Torrance, California."
+  },
+  {
+    "objectID": "index.html#hello",
+    "href": "index.html#hello",
+    "title": "Kyle Cahitas",
+    "section": "",
+    "text": "Welcome to my website! Created from ENVS-193DS at UCSB."
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Kyle Cahitas",
+    "section": "Education",
+    "text": "Education\nUniversity of Santa Barbara | Santa Barbara, Ca\nEl Camino Community College | Los Angeles, Ca"
+  },
+  {
+    "objectID": "index.html#experiance",
+    "href": "index.html#experiance",
+    "title": "Kyle Cahitas",
+    "section": "Experiance",
+    "text": "Experiance\nIm working on that!"
+  },
+  {
+    "objectID": "index.html#experience",
+    "href": "index.html#experience",
+    "title": "Kyle Cahitas",
+    "section": "Experience",
+    "text": "Experience\nIm working on that!"
   }
 ]

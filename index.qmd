@@ -5,15 +5,32 @@ about:
   template: trestles
   image-shape: round
   image-width: 23em
+  links:
+    - text: LinkedIn
+      href: https://www.linkedin.com/in/samanthacsik/
+    - text: Twitter
+      href: https://twitter.com/SamanthaCsik
+    - text: GitHub
+      href: https://github.com/yahitas
+    - text: Email
+      href: kycahitas@ucsb.edu
 ---
 Hello 
+-
+Welcome to my website! Created from ENVS-193DS at UCSB. 
 
------
-Education-
 
-University of Santa Barbara 
 
-El Camino Community College 
-rf
-------
+Education
+-
+
+University of Santa Barbara | Santa Barbara, Ca 
+
+
+El Camino Community College | Los Angeles, Ca
+
+
+Experience
+-
+Im working on that!
 
