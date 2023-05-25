@@ -6,14 +6,14 @@ about:
   image-shape: round
   image-width: 23em
 ---
-##Hello 
+Hello 
 
 -----
-##Education 
+Education-
 
 University of Santa Barbara 
 
 El Camino Community College 
-
+rf
 ------
 

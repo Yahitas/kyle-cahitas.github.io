@@ -13,10 +13,12 @@ website:
 
 format:
   html:
-    theme: slate
+    theme: 
+           mystyles.scss
+    mainfont: Julee
     css: styles.css
-    #toc: true
+    toc: true
     page-layout: full
 
-
+editor: visual
 
