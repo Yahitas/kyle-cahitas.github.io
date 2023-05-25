@@ -1,0 +1,20 @@
+---
+title: "Photos"
+
+#image: cool.jpeg
+#about:
+  #template: broadside
+---
+adfsdfaasdfasdf
+
+
+
+::: {layout-nrow=4}
+![Surus](cool.jpeg)
+
+![Hanno](cool.jpeg)
+
+![Abdul Abbas](cool.jpeg)
+
+![Lin Wang](cool.jpeg)
+:::

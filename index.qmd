@@ -1,7 +1,19 @@
 ---
-title: "kyle-cahitas.github.io"
+title: "Kyle Cahitas"
+image: blurry_La.JPG
+about: 
+  template: trestles
+  image-shape: round
+  image-width: 23em
 ---
+##Hello 
 
-This is a Quarto website.
+-----
+##Education 
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+University of Santa Barbara 
+
+El Camino Community College 
+
+------
+
