@@ -1,21 +1,26 @@
 ---
-title: "Photogrpahy-1"
-
+title: "Photogrpahy"
 #image: cool.jpeg
 #about:
   #template: broadside
 ---
 
-Santa Barbara Botanical Gardens
+# Santa Barbara Botanical Gardens
+
+I captured these images using the Fujifilm x100v, a newly acquired camera that truly lives up to its hype. The real gem of the x100v lies in its film simulation capabilities. For these shots, I opted for the Fujicolor Superia 800 film simulation, which proves to be ideal for overcast days. It renders a hazy and cool palette of green and blue tones.
 
 ::: {layout-nrow="1"}
-![stairway](photos%20/cool.jpeg)
+![Stairway](photos%20/cool.jpeg)
 
-![pathway](photos%20/botanical.jpeg)
+![Pathway](photos%20/botanical.jpeg)
 :::
 
 ::: {layout-ncol="2"}
-![Poppy](photos%20/botanical-2.jpeg)
+![Coulters Matilija Poppy](photos%20/botanical-2.jpeg)
 
-![Hanno](photos%20/botanical-3.jpeg)
+![Hike](photos%20/botac.JPG)
+:::
+
+::: {layout-nrow="1"}
+![Catalina Island Live-forever](photos%20/channel.JPG)
 :::

@@ -2,34 +2,23 @@
 title: "Kyle Cahitas"
 image: hat-photo.jpg
 about: 
-  template: trestles
-  image-width: 25em
+  template: jolla
+  image-width: 35em
   links:
     - icon: twitter
       text: Twitter
-      href: https://twitter.com/SamanthaCsik
+      href: https://twitter.com/Kyle_Bahitas
     - icon: github
       text: GitHub
       href: https://github.com/yahitas
     - text: Email
-      href: kycahitas@ucsb.edu
+      icon: envelope
+      href: mailto:kycahitas@ucsb.edu
 ---
-Hello 
--
-Welcome to my website! Created from ENVS-193DS at UCSB. 
 
+:::{#hero-heading}
 
+I am currently enrolled as a student at the University of Santa Barbara, pursuing a major in Environmental Science, with a Bachelor of Science degree.
 
-Education
--
-
-University of Santa Barbara | Santa Barbara, Ca 
-
-
-El Camino Community College | Los Angeles, Ca
-
-
-Experience
--
-Im working on that!
+:::
 

@@ -1,13 +1,22 @@
 ---
-title: "Yup"
+title: "Film Photography"
 ---
 
-::: {layout-nrow=1}
+:::{#hero-heading}
 
-![Surus](botanical-2.jpeg)
+I would like to share three contact sheets that hold a special place among my favorites. I personally undertake the entire process of developing and scanning the film on my own. 
+
+:::
+
+
+::: {layout-ncol=1}
+
+![The film stock used was Kodak-200](photos%20/Kodak-200.jpg)
+
+![The film stock used was Kodak-400](photos%20/Kodak-400.jpg)
 
 
 
-![Surus](botanical-2.jpeg)
+![The film stock used was Ektar-100](photos%20/Ektar-100.jpg)
 
 :::

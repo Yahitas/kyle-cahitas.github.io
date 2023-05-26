@@ -1,6 +1,7 @@
 /*-- scss:defaults --*/
 
 // Fonts
+
 @import url('https://fonts.googleapis.com/css2?family=Julee&family=Mandali&display=swap');
 
 // Colors
@@ -10,12 +11,37 @@ $cream: #FDFBF7;
 $gray: #64605f;
 $light-gray: #949799;
 $dark-redvibe: #C0392B;
+$black: #000000;
+$moccasin: #FFE4B5;
+$darkkhaki: #BDB76B;
 
 // Base document colors
 $navbar-bg: $cream; // navbar
 $navbar-fg: $dark-slate-gray; // navbar foreground elements
-$navbar-hl: $dark-redvibe; // highlight color when hovering over navbar links
+$navbar-hl: $moccasin; // highlight color when hovering over navbar links
 $body-bg: $light-sage-green; // page background 
 $body-color: $gray; // page text 
 $footer-bg: $cream; // footer 
-$link-color: $dark-redvibe; // hyperlinks 
+$link-color: $darkkhaki; // hyperlinks 
+
+/*-- scss:rules --*/
+
+h1, h3 {
+  letter-spacing: 2px;
+  font-weight: 700;
+  color: $gray;
+}
+
+.title {
+  color: $cream;
+  font-size: 30px;
+}
+p { 
+  font-size: 20px;
+
+}
+
+
+
+
+

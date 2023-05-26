@@ -3,6 +3,9 @@ project:
   output-dir: docs
 
 website:
+  page-footer: 
+    left: "Copyright 2023, Kyle Cahitas"
+    border: false 
   title: "Kyle Cahitas"
   navbar:
     left:
