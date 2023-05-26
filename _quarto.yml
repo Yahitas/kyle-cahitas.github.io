@@ -10,12 +10,15 @@ website:
         text: Home
       - about.qmd
       - New.qmd
+      - yup.qmd
+      - grad.qmd
 
 format:
   html:
     theme: 
-           mystyles.scss
-    mainfont: Julee
+      - morph
+      - mystyles.scss
+    mainfont: Mandali
     css: styles.css
     toc: true
     page-layout: full

@@ -1,16 +1,15 @@
 ---
 title: "Kyle Cahitas"
-image: blurry_La.JPG
+image: hat-photo.jpg
 about: 
   template: trestles
-  image-shape: round
-  image-width: 23em
+  image-width: 25em
   links:
-    - text: LinkedIn
-      href: https://www.linkedin.com/in/samanthacsik/
-    - text: Twitter
+    - icon: twitter
+      text: Twitter
       href: https://twitter.com/SamanthaCsik
-    - text: GitHub
+    - icon: github
+      text: GitHub
       href: https://github.com/yahitas
     - text: Email
       href: kycahitas@ucsb.edu

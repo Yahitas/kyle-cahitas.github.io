@@ -1,0 +1,21 @@
+---
+title: "Graduation Photos"
+
+#image: cool.jpeg
+#about:
+  #template: broadside
+---
+
+Graduation Photos of my freinds
+
+::: {layout-nrow="1"}
+![ariana](photos%20/Grad-Ariana.jpg) 
+
+![Megan](photos%20/Grad-Megan.jpg)
+:::
+
+::: {layout-ncol="2"}
+![marissa](photos%20/Grad-Marissa.jpg) 
+
+![steven](photos%20/Grad-steven.jpg)
+:::

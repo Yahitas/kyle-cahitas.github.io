@@ -1,20 +1,21 @@
 ---
-title: "Photo page"
+title: "Photogrpahy-1"
 
 #image: cool.jpeg
 #about:
   #template: broadside
 ---
 
-Photo Gallery
+Santa Barbara Botanical Gardens
 
+::: {layout-nrow="1"}
+![stairway](photos%20/cool.jpeg)
 
-::: {layout-nrow=1}
-![you already know ](cool.jpeg)
+![pathway](photos%20/botanical.jpeg)
+:::
 
-![yes](cool.jpeg)
+::: {layout-ncol="2"}
+![Poppy](photos%20/botanical-2.jpeg)
 
-![yas](cool.jpeg)
-
-![yup](cool.jpeg)
+![Hanno](photos%20/botanical-3.jpeg)
 :::
