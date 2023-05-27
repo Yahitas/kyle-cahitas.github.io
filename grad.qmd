@@ -10,11 +10,11 @@ I had the privilege of documenting the significant achievements of my friends. I
 ::: {layout-nrow="1"}
 ![Ariana, graduated with a B.A in Anthroplopolgy at the University of Santa Barbara. ](photos%20/Grad-Ariana.jpg) 
 
-![Megan, graduated with a B.A in Bussiness and Marketing at the University of Fullerton.](photos%20/Grad-Megan.jpg)
+![Megan, graduated with a B.A in Business and Marketing at the University of Fullerton.](photos%20/Grad-Megan.jpg)
 :::
 
 ::: {layout-ncol="2"}
-![Marissa, graduated with a B.A in Econmics at the University of Santa Barbara.](photos%20/Grad-Marissa.jpg) 
+![Marissa, graduated with a B.A in Economics at the University of Santa Barbara.](photos%20/Grad-Marissa.jpg) 
 
 ![Steven, graduated with a B.A in Environmental Science at the University of Santa Barbara.](photos%20/Grad-steven.jpg)
 :::
