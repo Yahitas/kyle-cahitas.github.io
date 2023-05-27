@@ -1,5 +1,5 @@
 ---
-title: "Photogrpahy"
+title: "Photography"
 #image: cool.jpeg
 #about:
   #template: broadside
@@ -7,7 +7,7 @@ title: "Photogrpahy"
 
 # Santa Barbara Botanical Gardens
 
-I captured these images using the Fujifilm x100v, a newly acquired camera that truly lives up to its hype. The real gem of the x100v lies in its film simulation capabilities. For these shots, I opted for the Fujicolor Superia 800 film simulation, which proves to be ideal for overcast days. It renders a hazy and cool palette of green and blue tones.
+I captured these images using the Fujifilm x100v, a newly acquired camera that really lives up to its hype. One advantage of the x100v lies in its film simulation capabilities. For these shots, I installed the Fujicolor Superia 800 film simulation, which proves to be ideal for overcast days. It renders a hazy and cool palette of green and blue tones.
 
 ::: {layout-nrow="1"}
 ![Stairway](photos%20/cool.jpeg)
@@ -24,3 +24,6 @@ I captured these images using the Fujifilm x100v, a newly acquired camera that t
 ::: {layout-nrow="1"}
 ![Catalina Island Live-forever](photos%20/channel.JPG)
 :::
+
+
+
